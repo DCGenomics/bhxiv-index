@@ -1,5 +1,11 @@
 meetings:
 
+- NSFH_Biobank_Federation_Hackathon:
+  tag: NSFH_Biobank_Federation_Hackathon
+  title: "The Nordic Society for Future Health Biobank Federation Hackathon"
+  year: 2026
+  url: https://nordic-conference-on-future-health.org/hackathon/
+
 - BCM_SV_8:
   tag: BCM_SV_8
   title: "8th Annual Structural Variant Hackathon at Baylor College of Medicine"
